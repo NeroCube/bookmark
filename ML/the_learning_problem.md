@@ -1,4 +1,4 @@
-# 機器學習基石-林軒田
+# Lecture1: The Learning Problem
 
 機器學習就是模仿人類觀測學習技能的過程
 
