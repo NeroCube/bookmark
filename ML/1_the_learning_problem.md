@@ -1,10 +1,11 @@
-# Lecture1: The Learning Problem
+# 機器學習基石-林軒田
+## Lecture1: The Learning Problem
 
 機器學習就是模仿人類觀測學習技能的過程
 
 而機器透過從資料觀測學會在某個技能上有更好的表現
 
-![Untitled/Untitled.png](Untitled/Untitled.png)
+![pic/Untitled.png](pic/Untitled.png)
 
 學到的技巧，及特定表現的增強
 
@@ -28,18 +29,18 @@
 - 穿搭推薦系統
 - 音樂推薦系統(喜好)
 
-![Untitled/Untitled%201.png](Untitled/Untitled%201.png)
+![pic/Untitled%201.png](pic/Untitled%201.png)
 
 我們會又客戶評價電影的分數，依客戶評價的電影類型反推顧客喜好
 
 我們知道電影屬性在與顧客喜好矩陣將其內積，算出這個客戶可能會喜歡這部電影的分數，進行推薦
 
-![Untitled/Untitled%202.png](Untitled/Untitled%202.png)
+![pic/Untitled%202.png](pic/Untitled%202.png)
 
 Ｄ為歷史資料
 
 g為我們產生，想逼近實際f這個潛在模式（理想公式）
 
-![Untitled/Untitled%203.png](Untitled/Untitled%203.png)
+![pic/Untitled%203.png](pic/Untitled%203.png)
 
 這個定義是這樣機器學習就是我們從資料出發 從資料出發以後機器學習演算法要算什麼，要算出一個假說，一個hypothesis，我們叫做g。 然後我們希望這個g要做什麼，這個g要很接近我們真正心裏最渴望的那個 f，這個f是用來產生資料，但是我們不知道那個東西。 所以這是機器學習的這個演算法。
